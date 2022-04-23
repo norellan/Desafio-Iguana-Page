@@ -1,19 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400");
-
 html {
-  font-size: 100%;
+    font-size: 100%;
 }
 
 body {
-  background: white;
-  font-family: "Raleway", sans-serif;
-  font-weight: 400;
-  line-height: 1.75;
-  color: #000000;
+    background: black;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    line-height: 1.75;
+    color: #000000;
 }
 
 p {
-  margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
 h1,
@@ -21,157 +20,156 @@ h2,
 h3,
 h4,
 h5 {
-  margin: 3rem 0 1.38rem;
-  font-family: "Raleway", sans-serif;
-  font-weight: 400;
-  line-height: 1.3;
+    margin: 3rem 0 1.38rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    line-height: 1.3;
 }
 
 h1 {
-  margin-top: 0;
-  font-size: 3.052rem;
+    margin-top: 0;
+    font-size: 3.052rem;
 }
 
 h2 {
-  font-size: 2.441rem;
+    font-size: 2.441rem;
 }
 
 h3 {
-  font-size: 1.953rem;
+    font-size: 1.953rem;
 }
 
 h4 {
-  font-size: 1.563rem;
+    font-size: 1.563rem;
 }
 
 h5 {
-  font-size: 1.25rem;
+    font-size: 1.25rem;
 }
 
 small,
 .text_small {
-  font-size: 0.8rem;
+    font-size: 0.8rem;
 }
 
 body {
-  background: #000;
-  color: #ffffff;
-  font-family: "Raleway";
+    background: #000;
+    color: #ffffff;
+    font-family: "Raleway";
 }
 
 header {
-  width: 100%;
+    width: 100%;
 }
 
 .imagen_principal img {
-  display: flow-root;
-  width: 100%;
-  height: 50%;
+    display: flow-root;
+    width: 100%;
+    height: 50%;
 }
 
 section.imagen_doble .segundo {
-  width: 50%;
+    width: 50%;
 }
 
 section.imagen_doble {
-  width: 100%;
-  display: flex;
-  max-width: 100%;
-  align-items: center;
+    width: 100%;
+    display: flex;
+    max-width: 100%;
+    align-items: center;
 }
 
 header h1 {
-  text-align: center;
-  letter-spacing: 3px;
-  font-size: 38px;
-  margin: 10px 0;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 38px;
+    margin: 10px 0;
 }
 
 section.imagen_doble article p {
-  text-align: left;
-  font: normal normal 300 16px/19px "Raleway";
-  letter-spacing: 0px;
-  color: #ffffff;
-  opacity: 1;
-
-  text-align: justify;
+    text-align: left;
+    font: normal normal 300 16px/19px "Raleway";
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    text-align: justify;
 }
 
 section.iconos {
-  display: flex;
-  padding: 70px 30px;
-  align-items: center;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-  background-color: #221e17;
+    display: flex;
+    padding: 70px 30px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #221e17;
 }
 
 h2 {
-  width: 100%;
-  text-align: center;
-  font-size: 40px;
-  margin-bottom: 60px;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
 }
 
 .iconos .feature_1,
 .iconos .feature_2,
 .iconos .feature_3 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .iconos i {
-  font-size: 40px;
+    font-size: 40px;
 }
 
 section.gallery {
-  display: flow-root;
-  max-width: 100%;
-  padding: 5%;
+    display: flow-root;
+    max-width: 100%;
+    padding: 5%;
 }
 
 .gallery .photo {
-  display: inline-block;
-  width: 33%;
-  margin: 0;
+    display: inline-block;
+    width: 33%;
+    margin: 0;
 }
 
 img {
-  height: auto;
-  max-width: 100%;
-  overflow: hidden;
-  width: 100%;
-  min-height: 270px;
+    height: auto;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%;
+    min-height: 270px;
 }
 
 section.iconos p {
-  font-size: 20px;
+    font-size: 20px;
 }
 
 article.tercer {
-  float: left;
-  width: 40%;
-  padding: 0;
+    float: left;
+    width: 40%;
+    padding: 0;
 }
 
 section.imagen_doble article {
-  padding: 10%;
+    padding: 10%;
 }
 
 footer {
-  width: 100%;
-  height: 102px;
-  background: #1e1a13 0% 0% no-repeat padding-box;
-  opacity: 0.94;
-  margin: auto;
+    width: 100%;
+    height: 102px;
+    background: #1e1a13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+    margin: auto;
 }
 
 footer h3 {
-  text-align: center;
-  font: normal normal 300 20px/24px "Raleway";
-  letter-spacing: 0px;
-  padding: 2rem;
-  color: #ffffff;
-  opacity: 1;
+    text-align: center;
+    font: normal normal 300 20px/24px "Raleway";
+    letter-spacing: 0px;
+    padding: 2rem;
+    color: #ffffff;
+    opacity: 1;
 }
